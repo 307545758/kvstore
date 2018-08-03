@@ -6,7 +6,7 @@ redis-cli 是 Redis 原生的命令行工具。云数据库 Redis 版支持通�
 
 -   由于云数据库 Redis 版仅支持从阿里云内网访问，所以此操作方案仅在阿里云 ECS 上执行才生效。 若您的 Redis 不在阿里云 ECS 服务器上，您需要将原有的 AOF 文件复制到 ECS 上再执行以上操作。
 
--   redis-cli 是 Redis 原生的命令行工具。若您在 ECS 上无法使用 redis-cli，可以先下载安装 Redis 即可使用 redis-cli。
+-   redis-cli 是 Redis 原生的命令行工具。若您在 ECS上无法使用 redis-cli，可以先下载安装 Redis 即可使用 redis-cli。
 
 
 ## 操作步骤 { .section}
